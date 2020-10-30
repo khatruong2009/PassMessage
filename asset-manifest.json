@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PassMessage/static/css/main.dd4a7eca.chunk.css",
+    "main.css": "/PassMessage/static/css/main.ed09cf05.chunk.css",
     "main.js": "/PassMessage/static/js/main.df89cc6d.chunk.js",
     "main.js.map": "/PassMessage/static/js/main.df89cc6d.chunk.js.map",
     "runtime-main.js": "/PassMessage/static/js/runtime-main.bd53a0a3.js",
@@ -10,13 +10,13 @@
     "static/js/3.cf8e1e98.chunk.js": "/PassMessage/static/js/3.cf8e1e98.chunk.js",
     "static/js/3.cf8e1e98.chunk.js.map": "/PassMessage/static/js/3.cf8e1e98.chunk.js.map",
     "index.html": "/PassMessage/index.html",
-    "static/css/main.dd4a7eca.chunk.css.map": "/PassMessage/static/css/main.dd4a7eca.chunk.css.map",
+    "static/css/main.ed09cf05.chunk.css.map": "/PassMessage/static/css/main.ed09cf05.chunk.css.map",
     "static/js/2.44920048.chunk.js.LICENSE.txt": "/PassMessage/static/js/2.44920048.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd53a0a3.js",
     "static/js/2.44920048.chunk.js",
-    "static/css/main.dd4a7eca.chunk.css",
+    "static/css/main.ed09cf05.chunk.css",
     "static/js/main.df89cc6d.chunk.js"
   ]
 }
